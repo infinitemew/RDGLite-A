@@ -22,7 +22,7 @@
 
 > 代码默认的数据集路径为 data/DBP15K/
 
-您可以直接在[这里](https://pan.baidu.com/s/1yeOXx5LlUca8J4gmWGwlEQ?pwd=7ral)直接下载数据集，此外您也可以按照下述内容自行构建。
+您可以在[这里](https://pan.baidu.com/s/1yeOXx5LlUca8J4gmWGwlEQ?pwd=7ral)直接下载数据集，此外您也可以按照下述内容自行构建。
 
 以下的文件您可以在[这里](https://github.com/1049451037/GCN-Align/tree/master/data)找到。
 
