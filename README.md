@@ -20,7 +20,7 @@
 - ja-en
 - zh-en
 
-> 代码默认的数据集路径为 data/DBP15K/
+> 代码默认的数据集路径为 `data/DBP15K/`
 
 您可以在[这里](https://pan.baidu.com/s/1yeOXx5LlUca8J4gmWGwlEQ?pwd=7ral)直接下载数据集，此外您也可以按照下述内容自行构建。
 
@@ -38,7 +38,7 @@
 
 > 考虑到国内的网络访问谷歌网盘的困难，我们也提供了[百度网盘](https://pan.baidu.com/s/1RxUy6m2rBLuTcpfkVslzqA?pwd=p46r)下载。
 
-以下的文件您可以运行getAttrEmbedding.py来生成，考虑到该代码的运行需要消耗大量的内存，我们也在[这里](https://pan.baidu.com/s/1I-7KuzMwk6bjQEJ5qIrNPQ?pwd=5bqe)提供单独下载。
+以下的文件您可以运行`getAttrEmbedding.py`来生成，考虑到该代码的运行需要消耗大量的内存，我们也在[这里](https://pan.baidu.com/s/1I-7KuzMwk6bjQEJ5qIrNPQ?pwd=5bqe)提供单独下载。
 
 ```
 python getAttrEmbedding.py --lang zh_en
