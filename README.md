@@ -1,6 +1,6 @@
 # RDGLite-A
 
-云南大学学报2022论文***[融合属性嵌入与关系注意力的跨语言实体对齐](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=YNDZ20220927001&uniplatform=NZKPT&v=ILIcPzEcsTyBEXay-HElQvOlrDc4hZ9MiULTEKRCfwh9-zfxYASOXKTDOBGmJH0h)***的源码。
+云南大学学报2022论文[融合属性嵌入与关系注意力的跨语言实体对齐](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=YNDZ20220927001&uniplatform=NZKPT&v=ILIcPzEcsTyBEXay-HElQvOlrDc4hZ9MiULTEKRCfwh9-zfxYASOXKTDOBGmJH0h)的源码。
 
 初始数据集来自[RDGCN](https://github.com/StephanieWyt/RDGCN)和[GCN-Align](https://github.com/1049451037/GCN-Align) .
 
