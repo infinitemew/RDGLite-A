@@ -26,15 +26,15 @@
 
 以下的文件您可以在[这里](https://github.com/1049451037/GCN-Align/tree/master/data)找到。
 
-* ent_ids_1: KG (ZH)中的实体ID和实体名；
-* ent_ids_2: KG (EN)中的实体ID和实体名；
-* ref_ent_ids: 预先对齐的实体对；
-* triples_1: KG (ZH)中的关系三元组；
-* triples_2: KG (EN)中的关系三元组;
+* `ent_ids_1`: KG (ZH)中的实体ID和实体名；
+* `ent_ids_2`: KG (EN)中的实体ID和实体名；
+* `ref_ent_ids`: 预先对齐的实体对；
+* `triples_1`: KG (ZH)中的关系三元组；
+* `triples_2`: KG (EN)中的关系三元组;
 
 以下的文件您可以在[这里](https://github.com/StephanieWyt/RDGCN)找到。
 
-* zh_vectorList.json: 由Glove初始化的实体嵌入；
+* `zh_vectorList.json`: 由Glove初始化的实体嵌入；
 
 > 考虑到国内的网络访问谷歌网盘的困难，我们也提供了[百度网盘](https://pan.baidu.com/s/1RxUy6m2rBLuTcpfkVslzqA?pwd=p46r)下载。
 
@@ -44,8 +44,8 @@
 python getAttrEmbedding.py --lang zh_en
 ```
 
-* zh_ae_adj_sparse.json: 用在zh-en数据集中的实体-属性邻接矩阵；
-* zh_attr_vector.json: 由PyTorch的nn.Embedding初始化的属性嵌入；
+* `zh_ae_adj_sparse.json`: 用在zh-en数据集中的实体-属性邻接矩阵；
+* `zh_attr_vector.json`: 由PyTorch的nn.Embedding初始化的属性嵌入；
 
 > 上述文件以DBP15K(zh-en)数据集为例。
 
