@@ -57,4 +57,4 @@ python getAttrEmbedding.py --lang zh_en
 python main.py --lang zh_en
 ```
 
-> 您可以在Config.py中修改超参数。
+> 您可以在`Config.py`中修改超参数。
