@@ -34,9 +34,9 @@
 
 以下的文件您可以在[这里](https://github.com/StephanieWyt/RDGCN)找到。
 
-考虑到国内的网络访问谷歌网盘的困难，我们在这里也提供了[百度网盘](https://pan.baidu.com/s/1RxUy6m2rBLuTcpfkVslzqA?pwd=p46r)下载。
-
 * zh_vectorList.json: 由Glove初始化的实体嵌入；
+
+考虑到国内的网络访问谷歌网盘的困难，我们在这里也提供了[百度网盘](https://pan.baidu.com/s/1RxUy6m2rBLuTcpfkVslzqA?pwd=p46r)下载。
 
 以下的文件您可以运行getAttrEmbedding.py来生成，考虑到该代码的运行需要消耗大量的内存，我们也在[这里](https://pan.baidu.com/s/1I-7KuzMwk6bjQEJ5qIrNPQ?pwd=5bqe)提供单独下载。
 
